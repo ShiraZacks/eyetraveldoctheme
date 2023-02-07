@@ -1,5 +1,13 @@
 <?php
 echo ' <!-- Navbar  -->
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    document.getElementById("smallScreen").classList.toggle("show");
+    document.getElementById("smallScreen").classList.toggle("hide");
+}
+</script>
+    
     <div class="top">
         <div class="topBar">
 
@@ -29,5 +37,3 @@ echo ' <!-- Navbar  -->
             </ul>
         </div>
     </div>';
-    ?>
-    
