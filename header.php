@@ -12,7 +12,7 @@ function myFunction() {
         <div class="topBar">
 
             <div class="smaller">
-                <a class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="bars.png" alt="MENU"></a>
+                <a class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="https://eyetraveldoc.com/wp-content/uploads/2023/02/bars.png" alt="MENU"></a>
             </div>
 
 
