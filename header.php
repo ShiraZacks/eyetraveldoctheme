@@ -4,7 +4,7 @@ echo ' <!-- Navbar  -->
         <div class="topBar">
 
             <div class="smaller">
-                <a class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="bars.svg" alt="MENU"></a>
+                <a class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="bars.png" alt="MENU"></a>
             </div>
 
 
@@ -16,7 +16,7 @@ echo ' <!-- Navbar  -->
         </div>
     <!-- eye travel logo-->
         <div>
-            <img class="logo" src="logo.png" alt="Eye Travel: Eye Care for the Home Bound">
+            <img class="logo" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/logo.png" alt="Eye Travel: Eye Care for the Home Bound"/>
         </div>
 
         <!-- Navbar on small screens -->

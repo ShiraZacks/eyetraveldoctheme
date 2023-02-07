@@ -43,7 +43,7 @@
     <div class="row-1 row">
         <div class="column">
             <div class="center">
-                <img class="circle-pic" src="eye.png">
+                <img class="circle-pic" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/eye.png">
             </div>
             <ul><b>EYE TESTS</b></ul>
             <hr>
@@ -55,7 +55,7 @@
         </div>
         <div class="column">
             <div class="center">
-                <img class="circle-pic" src="glasses.jpg">
+                <img class="circle-pic" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/glasses.jpg">
             </div>
             <ul><b>OPTICAL SHOP</b></ul>
             <hr>
@@ -65,7 +65,7 @@
         </div>
         <div class="column">
             <div class="center">
-                <img class="circle-pic" src="appt.jpg">
+                <img class="circle-pic" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/appt.jpg">
             </div>
             <ul><b>SCHEDULE APPOINTMENT</b></ul>
             <hr>
@@ -129,7 +129,7 @@
 
     <div class="center">
         <h1>MEET DR YAAKOV ZACKS, O.D.</h1>
-        <img class="about-pic" src="about.jpg">
+        <img class="about-pic" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/about-scaled.jpg">
 
         <h3>Yaakov Zacks OD saw his first home bound patient in 2006.
             He has been exclusively serving this largely under served population since then.</h3>
@@ -173,7 +173,7 @@
 
     <div class="center">
         <h1>SUBMIT A REFERRAL</h1>
-        <img class="referral" src="referral.jpg">
+        <img class="referral" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/referral.jpg">
         <p>If you are a home care professional and would like us to see a patient of yours,
             you can fax the information to (248) 569-7054.</p>
     </div>
