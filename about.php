@@ -17,14 +17,14 @@
         <h1>What is Eye Travel</h1>
         <div class="big-blue-stripe"><br></div>
         <div><br>
-        <h3>Eye Travel is Michigan's first and only eye care practice that specializes in-home care.
+        <h3>Eye Travel is Michigan's first and only eye care practice that specializes in home care.
             Our doctors are able to provide our patients with the same care that they would receive in a
             traditional eye doctor's office. All of the equipment they need fits nicely in a suitcase and
             is so portable that the exam can be given whether the patient prefers to sit in their favorite
             chair or even if they are bed-bound.</h3>
             <hr>
         <h3>Whether you're a home care professional, a caregiver, or just a friend of someone who has difficulty
-            getting to the doctors, <a class="link" href="contact.php">contact Eye Travel today</a> and help improve the quality of life of someone
+            getting to the doctor, <a class="link" href="contact.php">contact Eye Travel today</a> and help improve the quality of life of someone
             you care about. Dr. Zacks and his staff see patients all over Southeastern Michigan.</h3>
             <hr>
         <h3> As an added measure of convenience, our doctors also bring with them a selection of men's
