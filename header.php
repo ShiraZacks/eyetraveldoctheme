@@ -12,7 +12,7 @@ function myFunction() {
         <div class="topBar">
 
             <div class="smaller">
-                <a href="#topBar" class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="https://eyetraveldoc.com/wp-content/uploads/2023/02/bars.png" alt="MENU"></a>
+                <a href="#logo" class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="https://eyetraveldoc.com/wp-content/uploads/2023/02/bars.png" alt="MENU"></a>
             </div>
 
 
@@ -24,7 +24,7 @@ function myFunction() {
         </div>
     <!-- eye travel logo-->
         <div>
-            <img class="logo" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/logo.png" alt="Eye Travel: Eye Care for the Home Bound"/>
+            <img id="logo" class="logo" src="https://eyetraveldoc.com/wp-content/uploads/2023/02/logo.png" alt="Eye Travel: Eye Care for the Home Bound"/>
         </div>
 
         <!-- Navbar on small screens -->
