@@ -8,11 +8,11 @@ function myFunction() {
 }
 </script>
     
-    <div class="top">
+    <div class="top" id="top">
         <div class="topBar">
 
             <div class="smaller">
-                <a href="#logo" class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="https://eyetraveldoc.com/wp-content/uploads/2023/02/bars.png" alt="MENU"></a>
+                <a href="#top" class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="https://eyetraveldoc.com/wp-content/uploads/2023/02/bars.png" alt="MENU"></a>
             </div>
 
 
