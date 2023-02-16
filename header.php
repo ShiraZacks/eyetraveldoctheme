@@ -1,4 +1,8 @@
 <?php
+$home = "esc_url( get_permalink( get_page_by_title( 'Eye Travel: Eye Care For The Home Bound' ) ) );";
+$about = "esc_url( get_permalink( get_page_by_title( 'About' ) ) );";
+$contact = "esc_url( get_permalink( get_page_by_title( 'Contact' ) ) );";
+
 echo ' <!-- Navbar  -->
 <script>
 // Used to toggle the menu on small screens when clicking on the menu button
@@ -14,12 +18,9 @@ function myFunction() {
             <div class="smaller">
                 <a href="#top" class="bar" onclick="myFunction()" title="Toggle Navigation Menu"><img src="https://eyetraveldoc.com/wp-content/uploads/2023/02/bars.png" alt="MENU"></a>
             </div>
-
-
-
-            <a href="eyetraveldoc.com" class="buttons">Home</a>
-            <a href="eyetraveldoc.com/about" class="buttons">What is Eye Travel</a>
-            <a href="eyetraveldoc.com/contact" class="buttons">Contact</a>
+            <a href=<?php echo $home; ?> class="buttons">Home</a>
+            <a href=<?php echo $about; ?> class="buttons">About Eye Travel</a>
+            <a href=<?php echo $contact; ?> class="buttons">Contact</a>
             <a href="https://portal.aprima.com/11/login.aspx?UID=a747b803-8d58-479c-8365-87a8f087e10e" class="buttons">Patient Portal</a>
         </div>
     <!-- eye travel logo-->
